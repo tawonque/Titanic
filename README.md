@@ -1,2 +1,2 @@
 # Titanic
-Gaggle's Titanic project
+Kaggle's Titanic project
